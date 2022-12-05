@@ -1,4 +1,4 @@
-#Program requirements : $ pip install pyperclip
+#Programme previous requirements : $ pip install pyperclip
 
 import pyperclip
 pyperclip.copy("Hello World")
